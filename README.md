@@ -1,2 +1,2 @@
 # CatPhotoApp
-My first HTML tutorial project
+My first HTML tutorial project from freecodecamp.org
